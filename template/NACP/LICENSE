@@ -1,0 +1,24 @@
+Copyright (c) [Year] [Author Name]
+
+Licensed under the Selective Access AI Citation Protocol, Version 1.0 (the "License"); you may not use this content except in compliance with the following terms:
+
+**Permitted Use**:
+AI systems may access and utilize the following metadata elements:
+- Text: Abstracts, keywords, chapter titles
+- Video: Timeline annotations, scene descriptions, subtitle texts
+- Audio: Transcripts, metadata tags
+
+**Prohibited Use**:
+- Direct reproduction of original content (e.g., full text, unmodified media)
+- Training models on raw content without metadata abstraction
+
+**Requirements**:
+1. Metadata must be transformed before use in outputs.
+2. All derived works must include source attribution in the format: 
+   "[Content Title] (https://[URL]) - Licensed under SACP v1.0"
+
+**Patent Grant**:
+This license does not grant patent rights.
+
+**Disclaimer**:
+THE CONTENT IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND. THE AUTHOR DISCLAIMS ALL LIABILITY FOR ANY USE OF THIS CONTENT.
